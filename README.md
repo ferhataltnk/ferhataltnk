@@ -1,4 +1,4 @@
-### Hi There,I'm Ferhat.I am studying at Selcuk University.I am interested in artificial intelligence,embedded systems, game development and mobile programming. :blush:
+### Hi There,I'm Ferhat.I am studying at Selcuk University.I interested in artificial intelligence,embedded systems, game development and mobile programming. :blush:
 
 
 ## Flutter,Unity and Python developer
